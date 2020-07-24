@@ -1,0 +1,16 @@
+svg {
+  background: beige;
+  margin-bottom: 10px;
+}
+
+svg:nth-child(3) {
+  background: lightblue;
+}
+
+.canvas {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
